@@ -35,13 +35,16 @@ rps-challenge_folder$ rackup
 ```
 and navigating using your preferred webbrowser to ```localhost:9292``` and follow the onscreen instructions:
 
-Fill in name
+**Fill in name**
+
 ![Start Screen](./00_notes/selection.png)
 
-Select your "weapon"
+**Select your "weapon"**
+
 ![Select Weapon](./00_notes/start.png)
 
-The game announces the winner
+**The game announces the winner**
+
 ![Winner Screen](./00_notes/decision.png)
 
 
